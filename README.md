@@ -9,8 +9,18 @@ After that locate click on the index.html file to view the website.
 ABOUT THIS WEBSITE :
 
 This is a simple basic website developed by Purity Muzorori. The purpose of this site was to highlight
-the important elements of HTML and CSS in this basic website, eg page links, Heading tags, Paragraph tags,
-Blockquote tags etc as you will find in the index.html file of the website folder.
+the important elements of HTML and CSS in this basic website.
+
+These include:
+
+CSS Backgrounds
+CSS Borders
+CSS user interface
+HTML Links
+HTML Formatting
+HTML Blocks
+HTML Attributes
+HTML Elements
 
 
 
